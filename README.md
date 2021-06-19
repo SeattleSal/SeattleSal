@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![SeattleSal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seattlesal)](https://github.com/seattlesal/github-readme-stats)
+
+
 <!--
 **SeattleSal/SeattleSal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
