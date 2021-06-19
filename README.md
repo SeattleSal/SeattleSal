@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SeattleSal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seattlesal)](https://github.com/seattlesal/github-readme-stats)
+[![SeattleSal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seattlesal&show_icons=true)](https://github.com/seattlesal/github-readme-stats)
 
 
 <!--
