@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub!
 
 [![SeattleSal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seattlesal&show_icons=true)](https://github.com/seattlesal/github-readme-stats)
 
