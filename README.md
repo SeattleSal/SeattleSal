@@ -1,6 +1,11 @@
 ### Welcome to my GitHub!
+[![SeattleSal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seattlesal&show_icons=true&theme=cobalt)
+)](https://github.com/seattlesal/github-readme-stats)
 
-[![SeattleSal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seattlesal&show_icons=true)](https://github.com/seattlesal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seattlesal&layout=compact&theme=cobalt)](https://github.com/seattlesal/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=cobalt)](https://github.com/seattlesal/github-readme-stats)
+
 
 
 <!--
